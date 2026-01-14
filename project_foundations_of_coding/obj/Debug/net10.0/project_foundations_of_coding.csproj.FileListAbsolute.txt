@@ -1,0 +1,15 @@
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\bin\Debug\net10.0\project_foundations_of_coding.exe
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\bin\Debug\net10.0\project_foundations_of_coding.deps.json
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\bin\Debug\net10.0\project_foundations_of_coding.runtimeconfig.json
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\bin\Debug\net10.0\project_foundations_of_coding.dll
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\bin\Debug\net10.0\project_foundations_of_coding.pdb
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.GeneratedMSBuildEditorConfig.editorconfig
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.AssemblyInfoInputs.cache
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.AssemblyInfo.cs
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.csproj.CoreCompileInputs.cache
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.sourcelink.json
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.dll
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\refint\project_foundations_of_coding.dll
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.pdb
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\project_foundations_of_coding.genruntimeconfig.cache
+d:\GitHub rep\Foundations-of-Coding-Front-End\project_foundations_of_coding\obj\Debug\net10.0\ref\project_foundations_of_coding.dll

@@ -1,0 +1,11 @@
+{
+  "NextId": 2,
+  "Products": [
+    {
+      "Id": 1,
+      "Name": "Eisen",
+      "Price": 2.45,
+      "Quantity": 2
+    }
+  ]
+}
