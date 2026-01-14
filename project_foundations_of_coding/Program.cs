@@ -9,6 +9,7 @@ class Program
 
     static void Main()
     {
+        // a loop that repeats until the user chooses to exit "0"
         while (true)
         {
             Console.WriteLine();
@@ -47,16 +48,18 @@ class Program
 
     static void AddProduct()
     {
+        // Prompt user for product details
         Console.Write("Product name: ");
         string name = Console.ReadLine();
-
+        
+        // Validate name
         Console.Write("Price: ");
         if (!decimal.TryParse(Console.ReadLine(), out decimal price))
         {
             Console.WriteLine("Invalid price.");
             return;
         }
-
+        // Validate price
         Console.Write("Stock: ");
         if (!int.TryParse(Console.ReadLine(), out int stock))
         {
@@ -67,12 +70,12 @@ class Program
         productNames.Add(name);
         productPrices.Add(price);
         productStock.Add(stock);
-
         Console.WriteLine("Add product.");
     }
 
     static void ListProducts()
     {
+        // Display all products
         if (productNames.Count == 0)
         {
             Console.WriteLine("No products available.");
@@ -81,12 +84,13 @@ class Program
 
         for (int i = 0; i < productNames.Count; i++)
         {
-            Console.WriteLine($"{i}: {productNames[i]} | Price: {productPrices[i]:F2} | Stock: {productStock[i]}");
+            Console.WriteLine($"{i}: {productNames[i]} | Price: {productPrices[i]:F2} \u20AC| Stock: {productStock[i]}");
         }
     }
 
     static void ChangeStock()
     {
+        // Change stock of a product
         ListProducts();
 
         Console.Write("Product number: ");
@@ -115,6 +119,7 @@ class Program
 
     static void RemoveProduct()
     {
+        // Remove a product
         ListProducts();
 
         Console.Write("Delete product number: ");

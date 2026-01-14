@@ -1,0 +1,34 @@
+Inventory management system
+
+-----------------------------------------------------------------------------------------------------
+
+Define Project Requirements
+
+
+	- Purpose: A system to manage your inventory that you can define yourself.
+
+	- Target Audience: All businesses that got inventory and/or personal use.
+
+	- Features: An simple text based menu with 4 different options to choose from and an "exit" tab aswell.
+				an "add product", "display products", "change stock", "delete product" option. 
+
+-----------------------------------------------------------------------------------------------------
+
+Set Objectives
+
+The inventory manager: 
+          provides a clean text based menu that is easy to read and understand.
+		  It has a "add products" option to add a item with price and stock amount.
+		  You can display products you added in the "display products" option.
+		  to change stock numbers you got a "change stock" option.
+		  to delete products the option "delete products" is there.
+		  to exit just use the "Exit" option.
+
+-----------------------------------------------------------------------------------------------------
+	
+	
+Identify Resources
+
+          Technologies:	 C#
+          
+		  Tools: 		 Visual Studio Code
